@@ -1,0 +1,7 @@
+{
+  "name": "anubis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
